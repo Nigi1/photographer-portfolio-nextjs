@@ -1,4 +1,7 @@
-'use client';
+// Static export for Next.js
+export async function generateStaticParams() {
+  return [{ locale: 'en' }, { locale: 'de' }];
+}
 
 import SEO from '@/components/SEO';
 import { Button } from '@/components/ui/button';
