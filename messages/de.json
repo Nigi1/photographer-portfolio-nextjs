@@ -1,0 +1,45 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "gallery": "Galerie",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "heroTitle": "Niclas Fotografie",
+    "heroSubtitle": "Momente festhalten, die zählen",
+    "cta": "Portfolio ansehen",
+    "aboutTitle": "Über Mich",
+    "aboutText": "Ich bin Niclas, ein professioneller Fotograf mit einer Leidenschaft für das Erzählen von Geschichten durch Bilder. Ich bin spezialisiert auf Porträts, Landschaften und Veranstaltungen.",
+    "featuredTitle": "Ausgewählte Aufnahmen"
+  },
+  "gallery": {
+    "title": "Galerie",
+    "filter": {
+      "all": "Alle",
+      "portraits": "Porträts",
+      "landscapes": "Landschaften",
+      "events": "Veranstaltungen"
+    }
+  },
+  "contact": {
+    "title": "Kontakt aufnehmen",
+    "form": {
+      "name": "Name",
+      "email": "E-Mail",
+      "message": "Nachricht",
+      "submit": "Nachricht senden",
+      "submitting": "Wird gesendet...",
+      "success": "Danke! Deine Nachricht wurde versendet.",
+      "error": "Etwas ist schiefgelaufen. Bitte versuche es erneut."
+    },
+    "errors": {
+      "nameMin": "Der Name muss mindestens 2 Zeichen lang sein",
+      "invalidEmail": "Ungültige E-Mail-Adresse",
+      "messageMin": "Die Nachricht muss mindestens 10 Zeichen lang sein"
+    },
+    "alternative": "Oder schreiben Sie mir an"
+  },
+  "footer": {
+    "copyright": "Niclas Fotografie"
+  }
+}

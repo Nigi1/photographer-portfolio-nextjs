@@ -1,0 +1,45 @@
+{
+  "nav": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  },
+  "home": {
+    "heroTitle": "Niclas Photography",
+    "heroSubtitle": "Capturing moments that matter",
+    "cta": "View Portfolio",
+    "aboutTitle": "About Me",
+    "aboutText": "I'm Niclas, a professional photographer with a passion for storytelling through imagery. I specialize in portraits, landscapes, and events.",
+    "featuredTitle": "Featured Shots"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "filter": {
+      "all": "All",
+      "portraits": "Portraits",
+      "landscapes": "Landscapes",
+      "events": "Events"
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success": "Thanks! Your message has been sent.",
+      "error": "Something went wrong. Please try again."
+    },
+    "errors": {
+      "nameMin": "Name must be at least 2 characters",
+      "invalidEmail": "Invalid email address",
+      "messageMin": "Message must be at least 10 characters"
+    },
+    "alternative": "Or email me at"
+  },
+  "footer": {
+    "copyright": "Niclas Photography"
+  }
+}
