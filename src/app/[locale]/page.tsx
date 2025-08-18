@@ -1,5 +1,6 @@
-'use client';
-
+export async function generateStaticParams() {
+  return [{ locale: 'en' }, { locale: 'de' }];
+}
 import SEO from '@/components/SEO';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
