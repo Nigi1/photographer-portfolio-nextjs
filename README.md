@@ -38,10 +38,10 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/photographer-portfolio.git
+git clone https://github.com/your-username/photographer-portfolio-nextjs.git
 
 # Navigate into the project folder
-cd photographer-portfolio
+cd photographer-portfolio-nextjs
 
 # Install dependencies
 npm install
